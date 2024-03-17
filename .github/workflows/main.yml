@@ -21,9 +21,9 @@ jobs:
     steps:
     - name: Github REST API Call
       env:
-        CI_TOKEN: ${{ secrets.SYN_PUSH }}
+        SYN_PUSH: ${{ secrets.SYN_PUSH }}
         PARENT_REPO: Culture-404/AlyssaMercante.com
         PARENT_BRANCH: develop
         WORKFLOW_ID: 89996842
       run: |
-        curl -fL --retry 3 -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ env.CI_TOKEN }}" https://api.github.com/repos/${{ env.PARENT_REPO }}/actions/workflows/${{ env.WORKFLOW_ID }}/dispatches -d '{"ref":"${{ env.PARENT_BRANCH }}"}'
+        curl -fL --retry 3 -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ env.SYN_PUSH }}" https://api.github.com/repos/${{ env.PARENT_REPO }}/actions/workflows/${{ env.WORKFLOW_ID }}/dispatches -d '{"ref":"${{ env.PARENT_BRANCH }}"}'
