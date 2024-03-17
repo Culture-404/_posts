@@ -14,4 +14,3 @@ canonical_name: "AlyssaMercante.com"
 
 After reviewing the evidence and history of the claim, we rate this article as Fair, Balanced, and Truth Seeking, the highest ranking we can give to an article. 
 
-
