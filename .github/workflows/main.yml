@@ -21,7 +21,7 @@ jobs:
     steps:
     - name: Github REST API Call
       env:
-        CI_TOKEN: ${{ secrets.CI_TOKEN }}
+        CI_TOKEN: ${{ secrets.SYN_PUSH }}
         PARENT_REPO: Culture-404/AlyssaMercante.com
         PARENT_BRANCH: develop
         WORKFLOW_ID: 89996842
