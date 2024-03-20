@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Bureaucrat: The Milkmen Are Coming!"
-permalink: /the-bureaucrat
+permalink: /news/the-bureaucrat
 date: 2024-03-02
 canonical: https://russellredding.com/the-bureaucrat
 canonical_name: "RussellRedding.com"

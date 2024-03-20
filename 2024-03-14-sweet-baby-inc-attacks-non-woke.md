@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Did Anti-Woke Gamers Create A Conspiracy Theory to Attack Sweet Baby Inc?"
-permalink: /sweet-baby-inc-attacks-non-woke
+permalink: /news/sweet-baby-inc-attacks-non-woke
 date: 2024-03-14
 # factcheck: "/assets/json/2024-03-14-sweet-baby-inc-attacks-non-woke.json"
 published: true

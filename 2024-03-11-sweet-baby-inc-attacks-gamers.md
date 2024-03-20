@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are Gamers Targeting Sweet Baby Inc. Because of Its Consultancy Work?"
-permalink: /sweet-baby-inc-attacks-gamers
+permalink: /news/sweet-baby-inc-attacks-gamers
 date: 2024-03-11
 # factcheck: "/assets/json/2024-03-11-sweet-baby-inc-attacks-gamers.json"
 published: true

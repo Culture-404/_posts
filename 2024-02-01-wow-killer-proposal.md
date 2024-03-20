@@ -1,7 +1,7 @@
 ---
 layout: redirect
 title: "WoW Killer Proposal"
-permalink: /wow-killer-proposal
+permalink: /news/wow-killer-proposal
 date: 2024-02-01
 redirect_url: "https://www.culture404.com/p/worldbuilding-platform-for-creatives"
 

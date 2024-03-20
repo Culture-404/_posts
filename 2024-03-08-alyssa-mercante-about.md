@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who is Alyssa Mercante"
-permalink: /alyssa-mercante-about
+permalink: /news/alyssa-mercante-about
 date: 2024-03-08
 donate: true
 canonical: "https://alyssamercante.com/alyssa-mercante-about"

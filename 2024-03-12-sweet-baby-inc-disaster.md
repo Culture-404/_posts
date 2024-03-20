@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The \"Sweet Baby Inc\" Disaster"
-permalink: /sweet-baby-inc-disaster
+permalink: /news/sweet-baby-inc-disaster
 date: 2024-03-12
 published: true
 canonical: https://www.youtube.com/watch?v=G-euWzvB684&t=1s

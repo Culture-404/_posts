@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Will Stancil: Experience"
-permalink: /will-stancil-experience
+permalink: /news/will-stancil-experience
 date: 2024-02-02
 canonical: https://willstancil.com/experience
 canonical_name: "WillStancil.com"

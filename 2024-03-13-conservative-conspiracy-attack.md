@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Sweet Baby Inc. Under Attack from Conservatives?"
-permalink: /sweet-baby-inc-attacks-conservatives
+permalink: /news/sweet-baby-inc-attacks-conservatives
 date: 2024-03-13
 # factcheck: "/assets/json/2024-03-13-conservative-conspiracy-attack.json"
 published: true

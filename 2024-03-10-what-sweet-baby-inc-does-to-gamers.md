@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Does Sweet Baby Inc Do What Some Gamers Think It Does?"
-permalink: /does-sweet-baby-inc-do-what-gamers-think
+permalink: /news/does-sweet-baby-inc-do-what-gamers-think
 date: 2024-03-10
 # factcheck: "/assets/json/2024-03-10-what-sweet-baby-inc-does-to-gamers.json"
 published: true

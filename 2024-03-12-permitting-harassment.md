@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are Valve and Discord Permitting Harassment?"
-permalink: /are-valve-and-discord-permitting-harassment-against-sweet-baby-inc
+permalink: /news/are-valve-and-discord-permitting-harassment-against-sweet-baby-inc
 date: 2024-03-12
 # factcheck: "/assets/json/2024-03-12-permitting-harassment.json"
 published: true

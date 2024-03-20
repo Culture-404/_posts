@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Will Stancil Plan"
-permalink: /the-will-stancil-plan
+permalink: /news/the-will-stancil-plan
 date: 2024-02-02
 canonical: https://willstancil.com
 canonical_name: "WillStancil.com"
