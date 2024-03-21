@@ -11,7 +11,7 @@ canonical_name: "Syn.Culture404.com"
 When the [True Name](https://en.wikipedia.org/wiki/True_name){:target="_blank" .link-dark} is known to the user, they invoke power over it. 
 {: .lead.fs-4 }
 
-The Law of Names states that if one knows the True Name of a person, object, or institution, they command a power over the demonic entity. 
+The Law of Names states that if one knows the True Name of a person, object, or institution, they command a power over it. 
 
 After a demon's name is identified, Inquisitors may publish their findings into that demon under it's listing in the [Book of Demons](#book-of-demons){: .link-dark } -- or our catalog of factchecks into prominent journalists. 
 
