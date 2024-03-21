@@ -8,7 +8,7 @@ donate: true
 canonical: "https://syn.culture404.com/law-of-names"
 canonical_name: "Syn.Culture404.com"
 ---
-When the [True Name](https://en.wikipedia.org/wiki/True_name){:target="_blank" .link-dark} is known to the user, they invoke power over it. 
+When the [True Name](https://en.wikipedia.org/wiki/True_name){:target="_blank" .link-dark} is known to the user, you invoke power over it. 
 {: .lead.fs-4 }
 
 The Law of Names states that if one knows the True Name of a person, object, or institution, they command a power over it. 
