@@ -6,8 +6,8 @@ date: 2024-03-11
 # factcheck: "/assets/json/2024-03-11-sweet-baby-inc-attacks-gamers.json"
 published: true
 donate: true
-canonical: "https://alyssamercante.com/sweet-baby-inc-attacks-gamers"
-canonical_name: "AlyssaMercante.com"
+canonical: "https://syn.culture404.com/news/sweet-baby-inc-attacks-gamers"
+canonical_name: "Syn.Culture404.com"
 ---
 {: .h6 }
 ## Factcheck: [A company called Sweet Baby Inc. has become the target of 'anti-woke' gamers because it offers consultancy work, an industry-standard service that's been normal for years](https://www.pcgamer.com/gaming-industry/a-company-called-sweet-baby-inc-has-become-the-target-of-anti-woke-gamers-because-it-offers-consultancy-work-an-industry-standard-service-thats-been-normal-for-years/)
