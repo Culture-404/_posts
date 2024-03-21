@@ -6,8 +6,8 @@ date: 2024-03-13
 # factcheck: "/assets/json/2024-03-13-conservative-conspiracy-attack.json"
 published: true
 donate: true
-canonical: "https://alyssamercante.com/sweet-baby-inc-attacks-conservatives"
-canonical_name: "AlyssaMercante.com"
+canonical: "https://syn.culture404.com/news/sweet-baby-inc-attacks-conservatives"
+canonical_name: "Syn.Culture404.com"
 ---
 {: .h6 }
 ## Factcheck: [Sweet Baby Inc. Is Under Attack Due to Conservative Conspiracy Theories](https://www.themarysue.com/sweet-baby-inc-controversy-explained/)

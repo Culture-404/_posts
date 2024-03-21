@@ -6,8 +6,8 @@ date: 2024-03-12
 # factcheck: "/assets/json/2024-03-12-permitting-harassment.json"
 published: true
 donate: true
-canonical: "https://alyssamercante.com/are-valve-and-discord-permitting-harassment-against-sweet-baby-inc"
-canonical_name: "AlyssaMercante.com"
+canonical: "https://syn.culture404.com/are-valve-and-discord-permitting-harassment-against-sweet-baby-inc"
+canonical_name: "Syn.Culture404.com"
 ---
 {: .h6 }
 ## Factcheck: [Why are Valve and Discord permitting harassment against Sweet Baby Inc.?](https://www.gamedeveloper.com/business/why-are-valve-and-discord-permitting-harassment-against-sweet-baby-inc-#close-modal)
