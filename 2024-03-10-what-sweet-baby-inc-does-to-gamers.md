@@ -3,11 +3,11 @@ layout: post
 title: "Does Sweet Baby Inc Do What Some Gamers Think It Does?"
 permalink: /news/does-sweet-baby-inc-do-what-gamers-think
 date: 2024-03-10
-# factcheck: "/assets/json/2024-03-10-what-sweet-baby-inc-does-to-gamers.json"
+factcheck: "/assets/json/2024-03-10-what-sweet-baby-inc-does-to-gamers.json"
 published: true
 donate: true
-canonical: "https://alyssamercante.com/does-sweet-baby-inc-do-what-gamers-think"
-canonical_name: "AlyssaMercante.com"
+canonical: "https://syn.culture404.com/news/does-sweet-baby-inc-do-what-gamers-think"
+canonical_name: "Syn.Culture404.com"
 ---
 {: .h6 }
 ## Factcheck: [Sweet Baby Inc. Doesn’t Do What Some Gamers Think It Does](https://kotaku.com/sweet-baby-inc-consulting-games-alan-wake-2-dei-1851312428)
