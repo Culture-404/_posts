@@ -1,4 +1,4 @@
-name: 'Submodule Notify LeviWinslow.com'
+name: 'Submodule Notify Pithyalyse.com'
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   notify:
-    name: 'Submodule Notify LeviWinslow.com'
+    name: 'Submodule Notify pithyalyse.com'
     runs-on: ubuntu-latest
 
     # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
@@ -22,9 +22,9 @@ jobs:
     - name: Github REST API Call
       env:
         SYN_PUSH: ${{ secrets.SYN_PUSH }}
-        PARENT_REPO: Culture-404/LeviWinslow.com
+        PARENT_REPO: Culture-404/pithyalyse.com
         PARENT_BRANCH: main
-        WORKFLOW_ID: 90819835
+        WORKFLOW_ID: 90821037
       run: |
         curl -fL --retry 3 -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ env.SYN_PUSH }}" https://api.github.com/repos/${{ env.PARENT_REPO }}/actions/workflows/${{ env.WORKFLOW_ID }}/dispatches -d '{"ref":"${{ env.PARENT_BRANCH }}"}'
     
