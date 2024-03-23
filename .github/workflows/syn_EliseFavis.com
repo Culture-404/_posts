@@ -10,7 +10,7 @@ on:
 
 jobs:
   notify:
-    name: 'Submodule Notify Syn Inquisition'
+    name: 'Submodule Notify EliseFavis.com'
     runs-on: ubuntu-latest
 
     # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
@@ -22,7 +22,7 @@ jobs:
     - name: Github REST API Call
       env:
         SYN_PUSH: ${{ secrets.SYN_PUSH }}
-        PARENT_REPO: Culture-404/Syn_Inquisition
+        PARENT_REPO: Culture-404/EliseFavis.com
         PARENT_BRANCH: main
         WORKFLOW_ID: 90352237
       run: |
