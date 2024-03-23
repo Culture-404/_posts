@@ -24,7 +24,7 @@ jobs:
         SYN_PUSH: ${{ secrets.SYN_PUSH }}
         PARENT_REPO: Culture-404/EliseFavis.com
         PARENT_BRANCH: main
-        WORKFLOW_ID: 90352237
+        WORKFLOW_ID: 90815678
       run: |
         curl -fL --retry 3 -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ env.SYN_PUSH }}" https://api.github.com/repos/${{ env.PARENT_REPO }}/actions/workflows/${{ env.WORKFLOW_ID }}/dispatches -d '{"ref":"${{ env.PARENT_BRANCH }}"}'
     
